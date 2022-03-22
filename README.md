@@ -1,2 +1,2 @@
 # DS340W
-Course project for DS 340W at PSU. 
+This GitHub repo is for academic purposes only. The materials uploaded here is for a course project on Applied Data Science.
